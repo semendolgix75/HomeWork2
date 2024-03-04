@@ -66,8 +66,8 @@ public class Main {
 //        Подсчитайте и выведите в консоль общую массу двух бойцов.
         var boxerWeight1=78.2;
         var boxerWeight2=82.7;
-        var TotalWeight=boxerWeight1+boxerWeight2;
-        System.out.println("Общая масса двух бойцов "+TotalWeight);
+        var totalWeight=boxerWeight1+boxerWeight2;
+        System.out.println("Общая масса двух бойцов "+totalWeight);
 
         System.out.println("Задача 7");
 //        Найдите остаток от деления между двумя весами. Для решения этой задачи используйте тип переменной var.
